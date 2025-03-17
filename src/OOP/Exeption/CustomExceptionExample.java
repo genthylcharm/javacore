@@ -1,5 +1,3 @@
-package OOP.Exception; // Sửa lỗi chính tả 'Exeption' thành 'Exception'
-
 // Exception tùy chỉnh kế thừa từ Exception
 class CheckAge extends Exception {
     public CheckAge(String message) {
